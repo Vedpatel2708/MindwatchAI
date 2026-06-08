@@ -1,0 +1,386 @@
+[
+  {
+    "text": "I'm disconnected from everyone even when I'm in a crowd.",
+    "label": "loneliness"
+  },
+  {
+    "text": "I feel a deep sadness I can't shake off.",
+    "label": "sadness"
+  },
+  {
+    "text": "Today was pretty unremarkable.",
+    "label": "neutral"
+  },
+  {
+    "text": "The loneliness is crushing me from the inside.",
+    "label": "loneliness"
+  },
+  {
+    "text": "My chest tightens whenever I think about going outside.",
+    "label": "anxiety"
+  },
+  {
+    "text": "The hope I once had is completely gone.",
+    "label": "hopelessness"
+  },
+  {
+    "text": "I feel like a shell of a person going through routines.",
+    "label": "numbness"
+  },
+  {
+    "text": "I feel heartbroken and devastated.",
+    "label": "sadness"
+  },
+  {
+    "text": "My heart aches constantly and I don't know how to stop it.",
+    "label": "sadness"
+  },
+  {
+    "text": "I'm surrounded by people but feel completely alone.",
+    "label": "loneliness"
+  },
+  {
+    "text": "Nothing much to report today.",
+    "label": "neutral"
+  },
+  {
+    "text": "The future looks completely empty and dark.",
+    "label": "hopelessness"
+  },
+  {
+    "text": "I'm so angry I can feel it in my whole body.",
+    "label": "anger"
+  },
+  {
+    "text": "I'm paralyzed by fear of making the wrong decision.",
+    "label": "anxiety"
+  },
+  {
+    "text": "I'm feeling okay, not great not terrible.",
+    "label": "neutral"
+  },
+  {
+    "text": "I lie awake replaying scenarios of things going wrong.",
+    "label": "anxiety"
+  },
+  {
+    "text": "No major changes, just the usual routine.",
+    "label": "neutral"
+  },
+  {
+    "text": "I've stopped making plans because nothing ever works out.",
+    "label": "hopelessness"
+  },
+  {
+    "text": "My thoughts race uncontrollably and I can't slow them down.",
+    "label": "anxiety"
+  },
+  {
+    "text": "I've been explosive lately over the smallest things.",
+    "label": "anger"
+  },
+  {
+    "text": "The anxiety is so bad I've been avoiding leaving my house.",
+    "label": "anxiety"
+  },
+  {
+    "text": "The shame is so deep I can't talk about it with anyone.",
+    "label": "shame"
+  },
+  {
+    "text": "I can't look at myself in the mirror.",
+    "label": "shame"
+  },
+  {
+    "text": "I've never felt so isolated in my entire life.",
+    "label": "loneliness"
+  },
+  {
+    "text": "It's like all my emotions have been switched off.",
+    "label": "numbness"
+  },
+  {
+    "text": "I used to feel things but now there's just nothing.",
+    "label": "numbness"
+  },
+  {
+    "text": "I miss the person I used to be before all this.",
+    "label": "sadness"
+  },
+  {
+    "text": "I feel invisible, like I could disappear and no one would notice.",
+    "label": "loneliness"
+  },
+  {
+    "text": "I've become detached from everything I used to care about.",
+    "label": "numbness"
+  },
+  {
+    "text": "I watch my life happening but I'm not really there.",
+    "label": "numbness"
+  },
+  {
+    "text": "The self-loathing is overwhelming.",
+    "label": "shame"
+  },
+  {
+    "text": "My heart races every time I think about tomorrow.",
+    "label": "anxiety"
+  },
+  {
+    "text": "The rage is overwhelming and I can't control it.",
+    "label": "anger"
+  },
+  {
+    "text": "I'm going through this completely alone.",
+    "label": "loneliness"
+  },
+  {
+    "text": "I don't see the point of trying anymore.",
+    "label": "hopelessness"
+  },
+  {
+    "text": "Everything is just average right now.",
+    "label": "neutral"
+  },
+  {
+    "text": "I'm numb to everything around me.",
+    "label": "numbness"
+  },
+  {
+    "text": "There's no light at the end of this tunnel.",
+    "label": "hopelessness"
+  },
+  {
+    "text": "I feel like a failure and everyone can see it.",
+    "label": "shame"
+  },
+  {
+    "text": "I'm full of rage about my situation and I can't calm down.",
+    "label": "anger"
+  },
+  {
+    "text": "I can't stop my mind from spiraling into worst-case scenarios.",
+    "label": "anxiety"
+  },
+  {
+    "text": "I'm humiliated by my own behavior and I can't forgive myself.",
+    "label": "shame"
+  },
+  {
+    "text": "I feel like I'm trapped with no exit.",
+    "label": "hopelessness"
+  },
+  {
+    "text": "I feel a constant sense of dread I can't shake.",
+    "label": "anxiety"
+  },
+  {
+    "text": "Today was a normal day. Nothing special happened.",
+    "label": "neutral"
+  },
+  {
+    "text": "My anger comes out of nowhere and I end up hurting people I love.",
+    "label": "anger"
+  },
+  {
+    "text": "No one truly understands what I'm going through.",
+    "label": "loneliness"
+  },
+  {
+    "text": "Things are just continuing as they are.",
+    "label": "neutral"
+  },
+  {
+    "text": "The grief feels like a physical weight I can't carry.",
+    "label": "sadness"
+  },
+  {
+    "text": "Even the things that should hurt don't affect me.",
+    "label": "numbness"
+  },
+  {
+    "text": "I go through the motions but nothing registers.",
+    "label": "numbness"
+  },
+  {
+    "text": "I'm mourning a life I thought I'd have.",
+    "label": "sadness"
+  },
+  {
+    "text": "Every door I try is locked. There's no way forward.",
+    "label": "hopelessness"
+  },
+  {
+    "text": "Nothing I do makes any difference \u2014 it's all meaningless.",
+    "label": "hopelessness"
+  },
+  {
+    "text": "Tears come without warning throughout the day.",
+    "label": "sadness"
+  },
+  {
+    "text": "I cry myself to sleep every night missing what we had.",
+    "label": "sadness"
+  },
+  {
+    "text": "The isolation has become my normal and it's unbearable.",
+    "label": "loneliness"
+  },
+  {
+    "text": "Nothing touches me anymore \u2014 I'm just hollow.",
+    "label": "numbness"
+  },
+  {
+    "text": "I'm in a neutral place emotionally right now.",
+    "label": "neutral"
+  },
+  {
+    "text": "The anger consumes me and I say things I later regret.",
+    "label": "anger"
+  },
+  {
+    "text": "I've given up believing things can change.",
+    "label": "hopelessness"
+  },
+  {
+    "text": "Everything reminds me of the loss and it breaks my heart.",
+    "label": "sadness"
+  },
+  {
+    "text": "The emptiness inside me is complete.",
+    "label": "numbness"
+  },
+  {
+    "text": "I went to work and came home. It was fine.",
+    "label": "neutral"
+  },
+  {
+    "text": "Everything makes me snap lately, I'm always on edge.",
+    "label": "anger"
+  },
+  {
+    "text": "I'm furious at the world and I don't know what to do with it.",
+    "label": "anger"
+  },
+  {
+    "text": "I'm terrified of everything and nothing at the same time.",
+    "label": "anxiety"
+  },
+  {
+    "text": "I feel like an outsider in my own life.",
+    "label": "loneliness"
+  },
+  {
+    "text": "I feel worthless and defective as a person.",
+    "label": "shame"
+  },
+  {
+    "text": "I reach out but no one reaches back.",
+    "label": "loneliness"
+  },
+  {
+    "text": "The future feels like a blank wall. Nothing is there.",
+    "label": "hopelessness"
+  },
+  {
+    "text": "The silence is deafening. I have no one to call.",
+    "label": "loneliness"
+  },
+  {
+    "text": "Things are stable, no particular feelings.",
+    "label": "neutral"
+  },
+  {
+    "text": "I want to scream at everyone around me.",
+    "label": "anger"
+  },
+  {
+    "text": "I'm too embarrassed to ask for help.",
+    "label": "shame"
+  },
+  {
+    "text": "I feel cheated and betrayed and furious.",
+    "label": "anger"
+  },
+  {
+    "text": "I have no one to talk to about the real things.",
+    "label": "loneliness"
+  },
+  {
+    "text": "The shame follows me everywhere and I can't escape it.",
+    "label": "shame"
+  },
+  {
+    "text": "I feel wronged and the injustice makes me want to explode.",
+    "label": "anger"
+  },
+  {
+    "text": "I feel on edge all the time like something terrible is coming.",
+    "label": "anxiety"
+  },
+  {
+    "text": "I feel fundamentally broken and unworthy of love.",
+    "label": "shame"
+  },
+  {
+    "text": "I'm disgusted by myself and what I've become.",
+    "label": "shame"
+  },
+  {
+    "text": "The flatness inside me is terrifying in its own way.",
+    "label": "numbness"
+  },
+  {
+    "text": "The constant worry is exhausting and I can't switch it off.",
+    "label": "anxiety"
+  },
+  {
+    "text": "I've done things I'm deeply ashamed of and I hate myself for it.",
+    "label": "shame"
+  },
+  {
+    "text": "The longing for what I've lost is overwhelming.",
+    "label": "sadness"
+  },
+  {
+    "text": "I'm embarrassed to even exist right now.",
+    "label": "shame"
+  },
+  {
+    "text": "It was an ordinary day.",
+    "label": "neutral"
+  },
+  {
+    "text": "A profound sadness has settled into my bones.",
+    "label": "sadness"
+  },
+  {
+    "text": "I don't feel anything anymore. Just empty.",
+    "label": "numbness"
+  },
+  {
+    "text": "Just going through the day as normal.",
+    "label": "neutral"
+  },
+  {
+    "text": "I've been crying all day and I don't even know why.",
+    "label": "sadness"
+  },
+  {
+    "text": "I feel a burning resentment I can't let go of.",
+    "label": "anger"
+  },
+  {
+    "text": "I can't imagine a version of my life that gets better.",
+    "label": "hopelessness"
+  },
+  {
+    "text": "I've lost faith that things will ever improve.",
+    "label": "hopelessness"
+  },
+  {
+    "text": "Panic attacks are happening multiple times a day now.",
+    "label": "anxiety"
+  }
+]

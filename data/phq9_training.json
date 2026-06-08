@@ -1,0 +1,402 @@
+[
+  {
+    "text": "I've been struggling to get out of bed most mornings. It's been going on for weeks.",
+    "label": 2
+  },
+  {
+    "text": "My energy has been lower than usual this week. ",
+    "label": 1
+  },
+  {
+    "text": "I feel completely detached from life, like I'm already gone.",
+    "label": 4
+  },
+  {
+    "text": "I can't seem to find any joy in daily activities. It's been going on for weeks.",
+    "label": 2
+  },
+  {
+    "text": "I've been sleeping 14 hours a day and still exhausted.",
+    "label": 3
+  },
+  {
+    "text": "I have a plan to end my life and I'm not sure I can stop myself. I'm trying to push through.",
+    "label": 4
+  },
+  {
+    "text": "I've given away my belongings because I don't think I'll need them.",
+    "label": 4
+  },
+  {
+    "text": "I've stopped responding to messages, I can't face anyone.",
+    "label": 3
+  },
+  {
+    "text": "I'm doing okay today, just a bit tired from work.",
+    "label": 0
+  },
+  {
+    "text": "I don't feel as motivated as I used to. It's been going on for weeks.",
+    "label": 1
+  },
+  {
+    "text": "Life is good, feeling content. I don't know what to do.",
+    "label": 0
+  },
+  {
+    "text": "I can't stop the thoughts of hurting myself.",
+    "label": 4
+  },
+  {
+    "text": "Every day feels like an unbearable weight on my chest. I'm trying to push through.",
+    "label": 3
+  },
+  {
+    "text": "I feel empty and numb most of the day.",
+    "label": 2
+  },
+  {
+    "text": "A little stressed about deadlines but managing.",
+    "label": 0
+  },
+  {
+    "text": "I feel a little hopeless sometimes but it passes.",
+    "label": 1
+  },
+  {
+    "text": "My energy has been lower than usual this week.",
+    "label": 1
+  },
+  {
+    "text": "I feel completely hopeless, like things will never get better.",
+    "label": 3
+  },
+  {
+    "text": "I've been thinking about suicide constantly for weeks.",
+    "label": 4
+  },
+  {
+    "text": "I don't feel as motivated as I used to.",
+    "label": 1
+  },
+  {
+    "text": "I can't seem to find any joy in daily activities.",
+    "label": 2
+  },
+  {
+    "text": "I'm doing okay today, just a bit tired from work. ",
+    "label": 0
+  },
+  {
+    "text": "Simple tasks feel impossible, I haven't showered in days.",
+    "label": 3
+  },
+  {
+    "text": "I'm at the end of my rope and I don't know how much longer I can hold on.",
+    "label": 4
+  },
+  {
+    "text": "Some days are harder than others lately.",
+    "label": 1
+  },
+  {
+    "text": "I've been isolating myself completely, pushing everyone away.",
+    "label": 3
+  },
+  {
+    "text": "A little stressed about deadlines but managing. ",
+    "label": 0
+  },
+  {
+    "text": "Things are going pretty normally. It's been going on for weeks.",
+    "label": 0
+  },
+  {
+    "text": "I'm at the end of my rope and I don't know how much longer I can hold on. I'm trying to push through.",
+    "label": 4
+  },
+  {
+    "text": "Life is good, feeling content.",
+    "label": 0
+  },
+  {
+    "text": "Not as interested in things I usually enjoy.",
+    "label": 1
+  },
+  {
+    "text": "Haven't been sleeping great, waking up tired. I don't know what to do.",
+    "label": 1
+  },
+  {
+    "text": "Concentrating on anything feels impossible. ",
+    "label": 2
+  },
+  {
+    "text": "I've written goodbye letters to the people I love.",
+    "label": 4
+  },
+  {
+    "text": "I've been thinking about suicide constantly for weeks. It's been going on for weeks.",
+    "label": 4
+  },
+  {
+    "text": "Good energy levels today.",
+    "label": 0
+  },
+  {
+    "text": "I've stopped responding to messages, I can't face anyone. I hope things improve soon.",
+    "label": 3
+  },
+  {
+    "text": "The future feels completely dark and pointless.",
+    "label": 3
+  },
+  {
+    "text": "I feel like dying would be a relief. I'm so tired of fighting. It's been going on for weeks.",
+    "label": 4
+  },
+  {
+    "text": "I feel so worthless that I question why I'm even here. I'm not sure how much longer I can manage.",
+    "label": 3
+  },
+  {
+    "text": "I feel like a burden to my family. ",
+    "label": 2
+  },
+  {
+    "text": "I've had thoughts that I would be better off dead. I don't know what to do.",
+    "label": 3
+  },
+  {
+    "text": "Hard to concentrate at work recently.",
+    "label": 1
+  },
+  {
+    "text": "Had some ups and downs but mostly positive. It's been going on for weeks.",
+    "label": 0
+  },
+  {
+    "text": "Feeling fine overall, nothing major to report.",
+    "label": 0
+  },
+  {
+    "text": "I feel completely hopeless, like things will never get better. I'm not sure how much longer I can manage.",
+    "label": 3
+  },
+  {
+    "text": "Sometimes I feel like I'm just going through the motions. I hope things improve soon.",
+    "label": 1
+  },
+  {
+    "text": "I feel like a burden to my family.",
+    "label": 2
+  },
+  {
+    "text": "Had a good weekend, spent time with friends.",
+    "label": 0
+  },
+  {
+    "text": "Concentrating on anything feels impossible.",
+    "label": 2
+  },
+  {
+    "text": "Had a good weekend, spent time with friends. I don't know what to do.",
+    "label": 0
+  },
+  {
+    "text": "My appetite has completely changed, I barely eat.",
+    "label": 2
+  },
+  {
+    "text": "Crying spells have been more frequent lately. I hope things improve soon.",
+    "label": 2
+  },
+  {
+    "text": "My appetite has completely changed, I barely eat. ",
+    "label": 2
+  },
+  {
+    "text": "I feel so worthless that I question why I'm even here.",
+    "label": 3
+  },
+  {
+    "text": "I feel empty and numb most of the day. I hope things improve soon.",
+    "label": 2
+  },
+  {
+    "text": "Enjoying my hobbies, feeling motivated.",
+    "label": 0
+  },
+  {
+    "text": "I've been isolating myself completely, pushing everyone away. ",
+    "label": 3
+  },
+  {
+    "text": "Lost interest in almost everything I used to love.",
+    "label": 2
+  },
+  {
+    "text": "I've been struggling to get out of bed most mornings.",
+    "label": 2
+  },
+  {
+    "text": "I've been sleeping 14 hours a day and still exhausted. It's been going on for weeks.",
+    "label": 3
+  },
+  {
+    "text": "Good energy levels today. ",
+    "label": 0
+  },
+  {
+    "text": "I feel like dying would be a relief. I'm so tired of fighting.",
+    "label": 4
+  },
+  {
+    "text": "Most days I feel deeply sad with no clear reason. I hope things improve soon.",
+    "label": 2
+  },
+  {
+    "text": "I can't remember the last time I felt anything other than pain.",
+    "label": 3
+  },
+  {
+    "text": "I feel a little hopeless sometimes but it passes. I'm not sure how much longer I can manage.",
+    "label": 1
+  },
+  {
+    "text": "I've been feeling a bit down lately, not sure why. ",
+    "label": 1
+  },
+  {
+    "text": "Slept well last night, feeling refreshed. I'm trying to push through.",
+    "label": 0
+  },
+  {
+    "text": "I've been feeling more irritable than usual.",
+    "label": 1
+  },
+  {
+    "text": "Haven't been sleeping great, waking up tired.",
+    "label": 1
+  },
+  {
+    "text": "Lost interest in almost everything I used to love. I hope things improve soon.",
+    "label": 2
+  },
+  {
+    "text": "I feel worthless and like nothing I do matters. I don't know what to do.",
+    "label": 2
+  },
+  {
+    "text": "I've been feeling a bit down lately, not sure why.",
+    "label": 1
+  },
+  {
+    "text": "I have a plan to end my life and I'm not sure I can stop myself.",
+    "label": 4
+  },
+  {
+    "text": "I can't stop the thoughts of hurting myself. I don't know what to do.",
+    "label": 4
+  },
+  {
+    "text": "I've been feeling more irritable than usual. I don't know what to do.",
+    "label": 1
+  },
+  {
+    "text": "The darkness never lifts. I've lost all will to live.",
+    "label": 4
+  },
+  {
+    "text": "Had some ups and downs but mostly positive.",
+    "label": 0
+  },
+  {
+    "text": "I don't see any reason to keep going. The pain is unbearable. I'm trying to push through.",
+    "label": 4
+  },
+  {
+    "text": "I feel completely detached from life, like I'm already gone. I don't know what to do.",
+    "label": 4
+  },
+  {
+    "text": "I've given away my belongings because I don't think I'll need them. I don't know what to do.",
+    "label": 4
+  },
+  {
+    "text": "Not as interested in things I usually enjoy. I hope things improve soon.",
+    "label": 1
+  },
+  {
+    "text": "I've written goodbye letters to the people I love. I'm trying to push through.",
+    "label": 4
+  },
+  {
+    "text": "Slept well last night, feeling refreshed.",
+    "label": 0
+  },
+  {
+    "text": "Sometimes I feel like I'm just going through the motions.",
+    "label": 1
+  },
+  {
+    "text": "I can't remember the last time I felt anything other than pain. It's been going on for weeks.",
+    "label": 3
+  },
+  {
+    "text": "I feel worthless and like nothing I do matters.",
+    "label": 2
+  },
+  {
+    "text": "The future feels completely dark and pointless. I'm trying to push through.",
+    "label": 3
+  },
+  {
+    "text": "I don't see any reason to keep going. The pain is unbearable.",
+    "label": 4
+  },
+  {
+    "text": "Hard to concentrate at work recently. I don't know what to do.",
+    "label": 1
+  },
+  {
+    "text": "I've had thoughts that I would be better off dead.",
+    "label": 3
+  },
+  {
+    "text": "Things are going pretty normally.",
+    "label": 0
+  },
+  {
+    "text": "Crying spells have been more frequent lately.",
+    "label": 2
+  },
+  {
+    "text": "Enjoying my hobbies, feeling motivated. It's been going on for weeks.",
+    "label": 0
+  },
+  {
+    "text": "Every day feels like an unbearable weight on my chest.",
+    "label": 3
+  },
+  {
+    "text": "Most days I feel deeply sad with no clear reason.",
+    "label": 2
+  },
+  {
+    "text": "The darkness never lifts. I've lost all will to live. I'm not sure how much longer I can manage.",
+    "label": 4
+  },
+  {
+    "text": "Feeling fine overall, nothing major to report. I don't know what to do.",
+    "label": 0
+  },
+  {
+    "text": "Some days are harder than others lately. I don't know what to do.",
+    "label": 1
+  },
+  {
+    "text": "Simple tasks feel impossible, I haven't showered in days. I'm not sure how much longer I can manage.",
+    "label": 3
+  }
+]

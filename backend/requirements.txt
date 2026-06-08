@@ -1,0 +1,27 @@
+# =============================================================================
+# backend/requirements.txt
+# No strict version pins — let pip resolve compatible versions automatically.
+# After successful install, run: pip freeze > requirements_locked.txt
+# =============================================================================
+
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+supabase
+langchain
+langchain-groq
+langchain-community
+sentence-transformers
+scikit-learn
+xgboost
+imbalanced-learn
+shap
+joblib
+pandas
+numpy
+hypothesis
+pytest
+pytest-asyncio
+httpx
+requests
